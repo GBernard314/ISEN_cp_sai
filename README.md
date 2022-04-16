@@ -5,4 +5,4 @@ C'est un petit report, le temps d'une soiree.
 
 DISCLAIMER : Il se peut qu'il y ai des erreur, des choses qu'on pourrait faire autrement.
 
-_[Guillaume BERNARD](https://github.com/GBernard314)_
+If you want to see it : _[Click here](https://github.com/GBernard314/ISEN_cp_sai/blob/main/sai_cp.ipynb)_
